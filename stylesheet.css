@@ -4,6 +4,10 @@ body {
 
 }
 
+html, body {
+ oerflow: hidden;
+}
+
 h3 {
   display: block;
    padding: 13px 30px;
